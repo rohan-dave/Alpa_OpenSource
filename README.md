@@ -7,4 +7,4 @@ This version is not intended to build and will not run due to the many missing f
 App Store: https://itunes.apple.com/us/app/alpa/id1227324238?mt=8
 
 Alpa is a free messaging app crafted to immerse you in the art of longer, meaningful conversations.
-Simply read a message and Alpa analyses your emotions through the camera, conveying exactly what you felt to the sender.
+Simply read a message and Alpa analyses your emotions through the camera, conveying exactly what you felt to the sender!
